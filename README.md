@@ -3,3 +3,4 @@
  - feature-A
  - more
  - 3rd
+ - fix-B
